@@ -1,36 +1,36 @@
 # nCent Labs, Inc
-## Requests for Startups
+## Request for Startups
 nCent Labs needs YOUR help to build applications on top of our upcoming blockchain platform! We are looking for talented developers who want to contribute to our public repository and show off their work to the world. While we are grateful for any open source contributions, we would also like to share a few ideas that we would really love to see the community help us develop. Following is a list of ideas where we really feel that proper incentive markets can flourish - with details to help you get started.
 
-Feeling inspired by the ideas below? Feel free to submit a *merge request* to us so that we can show off your work!
+Feeling inspired by the ideas below? Please submit a *merge request* to us so that we can show off your work!
 
-If you have a keen passion for building applications like these for our blockchain platform, please check out https://ncent.io/Applications/yCent/index.html to apply for our startup incubator!
+If you are passionate about building applications like these for our blockchain platform, please check out https://ncent.io/Applications/yCent/index.html to apply for our startup incubator!
 
 ### 1. JobCent
 #### Problem
-The labor market is disjointed-- there are people looking for jobs and can’t find them. There are also companies who are unable to find the employees they need. If we remove the inefficiency of the current labor market, we can help employees and companies find each other through referral chains and even decrease unemployment.
+The labor market is disjointed - there are people looking for jobs and can’t find them and companies who are unable to find the employees they need. If we reduce inefficiency in the labor market, we will help employees and companies find each other.  End result of fewer expensive headhunters (a tax on finding labor), more efficient companies, and fewer underemployed or unhappy employees.
 
 #### Why JobCent
-jobCent is the nCent Labs incentive protocol that incentivizes people to find a potential candidate to join the nCent Labs workspace. jobCent encourages people to refer the most qualified candidates by rewarding
-everyone involved in referral upon the hire of a candidate. It's a win-win situation: better candidates, faster hires, and bonuses for those who take part in finding our ideal employee.
+jobCent is the nCent Labs incentive protocol that incentivizes people to find potential candidates to join the nCent Labs workspace. jobCent encourages people to refer the most qualified candidates by rewarding
+everyone involved in referral if a candidate is hired. It's a win-win situation: with better candidates found faster, and payouts for those who succeeded in helping find an ideal employee.
 
 #### Existing Institutions We Want to Disrupt
-Angellist, Linkedin, Headhunting Agencies
+Angellist, Linkedin, Headhunting firms
 
 For more information contact kk@ncnt.io and jobcent@ncnt.io
 
 ### 2. DateCent
 #### Problem
-When single, most people desire romantic partners. Finding partners and meeting new people can be a very difficult task for one person to perform alone. Many have therefore turned to applications which either employ algorithms simply ask the user to filter nearby matches. However, often people have most success when simply referred by friends who they trust to know them better than the best algorithms; the limitation being the difficulty of incentivizing friends to perform the referral. DateCent provides incentives for referral of romantic partners to allow the search for romantic partners to become as efficient and effective as possible.
+When single, most people desire romantic partners (birds+bees 101). Finding (a) partner(s) can be a very difficult task for someone to perform alone. Many turn to applications for help. These either employ algorithms to serve potential matches or simply ask the user to self-filter nearby matches. However, couplings have higher chance of success when simply referred by friends they trust (something algorithms have not yet supplanted); the limitation being the difficulty of convincing friends to put time into a referral. DateCent provides incentives for referral of (potential) romantic partners to increase the  operation's efficiency and effectiveness.
 
 #### Why DateCent will Disrupt the Dating World
-Applications which use algorithms like Match.com or apply broad categorical or user-initiated filters such as Tinder to locate romantic partners. These methods of finding romantic partners are inefficient due to their separation from the user. Instead DateCent targets the underutilized referral system from those who the user trusts, providing incentives those who refer efficiently utilizing the power of a user’s vast network and outperforming less efficient filtering platforms.
+Applications which use algorithms like Match.com or apply broad categorical / user-initiated filters such as Tinder to locate romantic partners are inefficient due to their separation from the user. DateCent leverages the underutilized referral system of those who the user trusts, with incentives pushing a user’s network to outperform less efficient filtering platforms.
 
 For more information contact: kk@ncnt.io and datecent@ncnt.io
 
 ### 3. SportCent
 #### Problem
-Sports teams are not only trying to win games - they are also businesses focused on sustaining profits each season. Professional sports teams are one of the unique business types that can really utilize strong brand loyalty among their fan bases, and as such, the room for better incentive markets to emerge is enormous.
+Sports teams are not only trying to win games - they are also businesses focused on the bottom line each season. Professional sports teams are unique businesses in the degree of brand loyalty among their fan bases (customers). The brand loyalty of the fans provides an fertile  for better incentive markets to emerge is enormous.
 
 #### Why SportCent
 SportCent gives professional sports teams and their fan bases an opportunity to share merchandise sales revenue. Other ideas we have for SportCent include attendance referrals. This will allow a sports team to become far more popular by incentivizing referral at a small cost to their sales revenue.
