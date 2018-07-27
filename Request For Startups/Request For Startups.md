@@ -30,7 +30,7 @@ For more information contact: kk@ncnt.io and datecent@ncnt.io
 
 ### 3. SportCent
 #### Problem
-Sports teams are not only trying to win games - they are also businesses focused on sustaining profits each season. Professional sports teams are one of the unique business types that can really utilize strong brand loyalty among their fan bases, and as such, the room for better incentive markets to emerge is enormous.
+Sports teams are not only trying to win games - they are also businesses focused on sustaining profits each season. Professional sports teams are one of the unique business types that have strong brand loyalty among their fan bases. This serves as an accelerant for virality, which in turn aides successful incentive network schemes.
 
 #### Why SportCent
 SportCent gives professional sports teams and their fan bases an opportunity to share merchandise sales revenue. Other ideas we have for SportCent include attendance referrals. This will allow a sports team to become far more popular by incentivizing referral at a small cost to their sales revenue.
